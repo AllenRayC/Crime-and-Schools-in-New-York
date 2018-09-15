@@ -39,7 +39,7 @@ Research NYC API (structure, how to query) - Ratna
 Process and aggregate census data
 Clean up and format NYC api data
 Perform data analysis / comparison to answer each of the four questions
-Create 6-8 visualizations of the data
+Create 6-8 visualizations of the data (perhaps try additional visualization techniques)
 Create write-up summarizing our findings.
 Develop project presentation
 Present project results to class
